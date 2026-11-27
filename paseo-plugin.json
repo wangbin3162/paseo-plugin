@@ -1,0 +1,9 @@
+{
+  "id": "claude-context-sidebar",
+  "name": "Claude Context Sidebar",
+  "description": "Claude-style environment, git branch, and context breakdown sidebar for Paseo",
+  "media": [],
+  "requirements": {
+    "paseo": ">=0.17.4"
+  }
+}
